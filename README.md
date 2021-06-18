@@ -25,3 +25,14 @@ Task #10: Train a Naive Bayes Classifier
 Task #11: Assess trained model performance
 
 
+
+**Deep Learning with PyTorch: Neural Style Transfer**
+Now we will build Neural Style Transfer. We will accomplish it in by completing each task in the project:
+
+Task 1 : Set google colab runtime
+Task 2 : Loading VGG-19 pretrained model
+Task 3 : Preprocess Image
+Task 4 : Deprocess Image
+Task 5 : Create content and style loss 
+Task 6 : Get content,style features and create gram matrix
+Task 7 : Training loop
