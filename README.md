@@ -1,4 +1,4 @@
-# Projetos-Guiados - COURSERA
+# Data Science Projects
 
 
 **NLP: Twitter Sentiment Analysis**
